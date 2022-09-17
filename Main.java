@@ -6,5 +6,6 @@ public class Main {
         // JTextFields = A GUI textbox component that be used to add, set , or get text
 
         MyFrame frame = new MyFrame();
+        
     }
 }
